@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<title>EngProj</title>
+		<link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Cabin+Sketch" rel="stylesheet">
+		<link href = 'assest/css/reset.css' rel='stylesheet'>
+		<link href = 'assest/css/style.css' rel='stylesheet'>
+		<meta charset="utf-8">
+		<meta name='viewport' content="width=device-width,initial-scale=1">
+		<script src="../lib/app.js"></script>
+	    <script src="../lib/database.js"></script>
+	    <script src="../lib/codes.js"></script>
+	    <script src="../lib/handlebars.js"></script>
+	    <script src="script.js"></script>
+
+	    <script id="template-name" type="text/x-handlebars-template">
+	      {{name}}
+	    </script>
+
+	    <script id="template-semester" type="text/x-handlebars-template">
+	      {{semester}}
+	    </script>
+
+	    <script id="template-materia" type="text/x-handlebars-template">
+	      {{materia}}
+	    </script>
+
+	    <script id="template-description" type="text/x-handlebars-template">
+	      {{description}}
+
+	    </script>
+
+	    <script id="template-goals" type="text/x-handlebars-template">
+	      {{#each goals}}
+	        <li class="goal">{{this}}</li>
+	      {{/each}}
+    	</script>
+	</head>
+	<body>
+		<header class="menu">
+			<div class="header-logo">
+                EngProj
+            </div>
+            <ul class="menu-itens">
+               	<li class="submenu-item">Menu</li>
+               		<ul class="submenu-itens">
+               			<li class="submenu-item-projetos">Projeto 1</li>	
+                		<li class="submenu-item-projetos">Projeto 2</li>
+                		<li class="submenu-item-projetos">Projeto 3</li>
+                	</ul>
+            </ul>
+            <ul class="busca-item">
+				<li class="subbusca-item">Busca</li>
+			</ul>
+        </header>
+		<main>
+			<div class="container">
+  				<div class="wall wall-1" id="wall-1">
+    				<a href="#wall-2">Voltar</a>
+    				<h1>Imagem 1</h1>
+    				<img class="imagem" src='carroça2.jpg' alt='foto do projeto'>
+    				<a href="#wall-2">Avançar</a>
+  				</div>
+  				<div class="wall wall-2" id="wall-2">
+    				<a href="#wall-1">Voltar</a>
+    				<h1>Imagem 2</h1>
+    				<img class="imagem" src='carroça1.jpg' alt='foto do projeto'>
+    				<a href="#wall-1">Avançar</a>
+  				</div>
+			</div>
+			<div class="section">
+				<ul>
+					<li class="name"></li>
+					<li class="semester"></li>
+					<li class="materia"></li>
+				</ul>	
+			</div>
+			<div>
+				<img class="imagem" src='carroça1.jpg' alt='foto do projeto'>
+				<img class="imagem" src='carroça2.jpg' alt='foto do projeto'>
+			</div>				
+
+			<div class="section">
+				<h2 class="title">Descrição</h2>
+				<p class="description"></p>
+			</div>
+
+			<div class="section">
+				<h2 class="title">Objetivos de aprendizagem</h2>
+				<ul class="goals"></ul>	
+			</div>
+		</main>
+
+	</body>
+</html>
