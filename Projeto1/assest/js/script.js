@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
   */
 
   let path = "/area/" + params["projeto"]
-
+  console.log(path)
   db.download(path, function(data) {
     /*
       Se não sabe o que é isto, volte ao ingrediente 3.
