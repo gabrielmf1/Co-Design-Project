@@ -2,7 +2,7 @@ body {
     background-color: #ffffff;
 }
 
-.title + .name {
+.title {
 	font-family: 'Cabin', sans-serif;
 	font-size: 1.5rem;
 	font-weight: bold;
@@ -76,7 +76,7 @@ body {
 
 
 
-.content + .semester + .materia + .description + .goals{
+.content {
 	font-family: Helvetica;
 	font-size: 1.3rem;
 }
@@ -129,6 +129,7 @@ body {
 }
  
 .wall{
+  display: none;
   width: 100%;
   height: 100%;
 }
