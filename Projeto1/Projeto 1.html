@@ -19,16 +19,17 @@
 			<div class="header-logo">
                 EngProj
             </div>
-            <ul class="menu-itens">
-               	<li class="submenu-item">Menu</li>
-               		<ul class="submenu-itens"><
+            <div class="menu-itens">
+               	<div class="submenu-item">Menu
+               		<ul class="submenu-itens">
                			<li class="submenu-item-projetos">
                				<a href= "Projeto%201.html" >Projeto 1</a>
                			</li>	
                 		<li class="submenu-item-projetos">Projeto 2</li>
                 		<li class="submenu-item-projetos">Projeto 3</li>
                 	</ul>
-            </ul>
+                </div>	
+            </div>
             <ul class="busca-item">
 				<li class="subbusca-item">Busca</li>
 			</ul>
@@ -49,24 +50,22 @@
   				</div>
 			</div>
 			<div class="section">
-				<ul>
-					<li class="title"> <!--Melhoria para carroças de catadores --></li>
-					{{bli}}
-					<li class="content"> <!--1 semestre de engenharia --></li>
-					{{blo}}
-					<li class="content"> <!--Matéria: Natureza do design--></li>
-					{{blu}}
-				</ul>	
+				<ul class="title"> <!--Melhoria para carroças de catadores --></ul>
+					{{T}}
+				<ul class="content"> <!--1 semestre de engenharia --></ul>
+					{{S}}
+				<ul class="content"> <!--Matéria: Natureza do design--></ul>
+					{{M}}	
 			</div>
 			<div>
-				<img class="imagem" src='{{blao}}'>
-				
-				<!--<img class="imagem" src='carroça2.jpg' alt='foto do projeto'>-->
+				<u>
+					<img class="imagem" src="{{I}}" alt='foto do projeto'>
+				</u>
 			</div>				
 
 			<div class="section">
 				<h2 class="title">Descrição</h2>
-				{{bla}}
+				{{D}}
 				<p class="content">
 					<!--
 					Com o propósito de melhorar o bem estar e as condições de trabalho dos catadores, os alunos foram divididos em grupos, com objetivo de desenvolver uma ideia acessível de melhoria à carroça. Para definir as necessidades dos carroceiros, os grupos foram às ruas entrevistá-los e coletar informações sobre as carroças. A avaliação final foi sobre um protótipo de carroça construido pelos alunos no FabLab, cujo representava as ideias de cada grupo. Durante o período de férias, as ideias foram efetivadas e aplicadas em carroças de catadores escolhidos entre todos aqueles que foram entrevistados pelos alunos. O projeto foi promovido com parceria do Insper com o movimento Pimp My Carroça.
@@ -76,7 +75,7 @@
 
 			<div class="section">
 				<h2 class="title">Objetivos de aprendizagem</h2>
-				{{ble}}
+				{{G}}
 				<ul class="content">
 					<!--
 					<li>Identificar e abordar problemas de design</li>

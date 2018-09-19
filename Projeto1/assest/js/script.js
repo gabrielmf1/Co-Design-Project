@@ -29,12 +29,12 @@ document.addEventListener('DOMContentLoaded', function() {
       Se não sabe o que é isto, volte ao ingrediente 3.
     */
     replace('body', {
-        'bla': data['descricao'],
-        'ble': data['goal'],
-        'bli': data['titulo'],
-        'blo': data['semestre'],
-        'blu': data['materia'],
-        'blao': data['image'],
+        'D': data['descricao'],
+        'G': data['goal'],
+        'T': data['titulo'],
+        'S': data['semestre'],
+        'M': data['materia'],
+        'I': data['image'],
     })
   })
 })
