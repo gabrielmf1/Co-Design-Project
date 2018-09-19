@@ -1,0 +1,276 @@
+{
+    "Projetos voltados ao usuário": {
+        "Melhoria para carroças de catadores": {
+            "descricao": "Com o proposito de melhorar o bem estar e as condições de trabalho dos catadores, os alunos foram divididos em grupos, com objetivo de desenvolver uma ideia acess\u00edvel de melhoria \u00e0 carro\u00e7a. Para definir as necessidades dos carroceiros, os grupos foram \u00e0s ruas entrevist\u00e1-los e coletar informa\u00e7\u00f5es sobre as carro\u00e7as. A avalia\u00e7\u00e3o final foi sobre um prot\u00f3tipo de carro\u00e7a construido pelos alunos no FabLab, cujo representava as ideias de cada grupo. Durante o per\u00edodo de f\u00e9rias, as ideias foram efetivadas e aplicadas em carro\u00e7as de catadores escolhidos entre todos aqueles que foram entrevistados pelos alunos. O projeto foi promovido com parceria do Insper com o movimento Pimp My Carro\u00e7a.",
+            "goal": [
+                "Identificar e abordar problemas de design",
+                "Aplicar m\u00e9todos formais para facilitar o processo de design",
+                "documentar o processo de design",
+                "Representar um objeto graficamente por meio de sketch",
+                "Apresentar oralmente os resultados do processo de design",
+                "Utilizar t\u00e9cnicas de fabrica\u00e7\u00e3o digital para prototipar solu\u00e7\u00f5es",
+                "Compreender o projeto de design como forma de aprendizado pelofazer (hands-on)",
+                "Entender o trabalho em equipe como importante fator no processo de design, com crescente consci\u00eancia dos pap\u00e9is a serem executados durante o projeto"
+            ],
+            "image": "carroca.jpg",
+            "materia": "Natureza do Design",
+            "semestre": "Semestre de engenharia",
+            "titulo": "Melhoria para carro\u00e7a de catadores"
+        },
+        "Projeto final de Co-Design de Aplicativos": {
+            "descricao": "",
+            "goal": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "image": "",
+            "materia": "",
+            "semestre": "",
+            "titulo": ""
+        },
+        "Inovação incremental para empresa existente": {
+            "descricao": "",
+            "goal": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "image": "",
+            "materia": "",
+            "semestre": "",
+            "titulo": ""
+        },
+         "Modelo de negócios para startup nova": {
+            "descricao": "",
+            "goal": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "image": "",
+            "materia": "",
+            "semestre": "",
+            "titulo": ""
+         }
+    },
+
+    "Estudos de comportamentos do mundo físico": {
+         "Projeto Final de Descronstruindo a Matéria": {
+            "descricao": "",
+            "goal": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "image": "",
+            "materia": "",
+            "semestre": "",
+            "titulo": ""
+         },
+          "Projeto Final de Modelagem e Simulação": {
+            "descricao": "",
+            "goal": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "image": "",
+            "materia": "",
+            "semestre": "",
+            "titulo": ""
+         }
+
+    },
+    "Estudos sobre Matemática": {
+         "Projeto Final de Matemática da Variação": {
+            "descricao": "",
+            "goal": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "image": "",
+            "materia": "",
+            "semestre": "",
+            "titulo": ""
+         },
+          "Projeto Final de Matemática Multivariada": {
+            "descricao": "",
+            "goal": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "image": "",
+            "materia": "",
+            "semestre": "",
+            "titulo": ""
+         }
+
+    },
+    "Projetos de Programação": {
+         "Projeto Final de Design de Software": {
+            "descricao": "",
+            "goal": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "image": "",
+            "materia": "",
+            "semestre": "",
+            "titulo": ""
+         },
+
+         "Projeto Final de Ciência dos Dados": {
+            "descricao": "",
+            "goal": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "image": "",
+            "materia": "",
+            "semestre": "",
+            "titulo": ""
+         }         
+
+    },
+
+    "Projetos Físicos e Eletrônicos": {
+        "Projeto Final de Acionamentos Elétricos": {
+            "descricao": "",
+            "goal": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "image": "",
+            "materia": "",
+            "semestre": "",
+            "titulo": ""
+         },
+         "Projeto Final de Modelagem e Controle": {
+            "descricao": "",
+            "goal": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "image": "",
+            "materia": "",
+            "semestre": "",
+            "titulo": ""
+         },
+         "Estação Metereológica": {
+            "descricao": "",
+            "goal": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "image": "",
+            "materia": "",
+            "semestre": "",
+            "titulo": ""
+         },
+         "Girafa do Job Rotation": {
+            "descricao": "",
+            "goal": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "image": "",
+            "materia": "",
+            "semestre": "",
+            "titulo": ""
+         },
+         
+    },
+    "Estudos sobre a sociedade": {
+        "Cases de Grandes Desafios da Engenharia": {
+            "descricao": "",
+            "goal": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "image": "",
+            "materia": "",
+            "semestre": "",
+            "titulo": ""
+         },
+    }
+}
