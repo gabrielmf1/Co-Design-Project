@@ -1,6 +1,8 @@
 /*
   Se não sabe o que é isto, volte para os vídeos de JavaScript.
 */
+
+
 document.addEventListener('DOMContentLoaded', function() {
   /*
     Se não sabe o que é isto, volte ao ingrediente 2.
@@ -38,3 +40,4 @@ document.addEventListener('DOMContentLoaded', function() {
     })
   })
 })
+window.location = "#wall-1";
