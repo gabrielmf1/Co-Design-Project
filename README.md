@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="pt-br">
 	<head>
 		<title>EngProj</title>
@@ -11,7 +12,7 @@
 	<body>
 		<header class="menu">
       <div class="header-logo">
-          <a href= "Home%20P1.html" >EngProj</a>
+          <a href= "Home%20P1.html?area=Home%20P1=Home%20P1" >EngProj</a>
       </div>
       <div class="menu-total">Menu
         <div class="menu-item">
