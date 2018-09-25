@@ -1,0 +1,155 @@
+body {
+    background: content-box radial-gradient(white, red);}
+
+.title {
+	font-family: 'Cabin', sans-serif;
+	font-size: 1.5rem;
+	font-weight: bold;
+	color: #A60021;
+}
+
+
+.header-logo {
+	font-family:'Cabin Sketch', cursive;
+	font-size:3rem;
+	color: #ffffff;
+	border-style: solid;
+	border-width: 1px;
+	background-color: #CD0029;
+	border-color: #CD0029;
+}
+
+.menu {
+	display: flex;
+	border-style: solid;
+	border-width: .3px;
+	padding: 2.5px;
+	background-color: #CD0029;
+	border-color: #CD0029;
+}
+
+.subbusca-item {
+	font-family:'Helvetica', cursive;
+	font-size: 1.3rem;
+	color: #ffffff;
+	border: 1px solid #ffffff;
+    margin-left: .1rem;
+    padding: .5rem;
+    height: 1.4rem;
+}
+
+.subbusca-item:hover {
+    color: #40000D;
+    background-color: #ffffff;
+}
+
+.content {
+	font-family: Helvetica;
+	font-size: 1.3rem;
+}
+
+.section {
+	border-style: solid;
+	border-width: 1px;
+	margin: 10px;
+	padding: 10px;
+	font-size: 1.5em;
+	background-color: #ffffff;
+}
+
+.ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.imagem {
+	width: 70%;
+	text-align: center;
+	max-width: 50%;
+	min-width: 30%;
+	border-style: solid;
+	border-width: 1.5px;
+	border-color: #A60021;
+	margin-left: 25%;
+
+}
+
+.menu-total {
+	font-family:'Helvetica', cursive;
+	font-size: 1.3rem;
+	color: #ffffff;
+	border: 1px solid #ffffff;
+    margin-left: .1rem;
+    padding: .5rem;
+    height: 1.4rem;
+}
+
+.menu-total:hover {
+    color: #40000D;
+    background-color: #ffffff;
+}
+
+.menu-item {
+    flex-grow: 1;
+    padding: .25rem;
+    position: fixed;
+    color: #A60021
+}
+
+.menu-itens:hover {
+    color: #40000D;
+    background-color: #ffffff;
+}
+
+.menu-item {
+	left: -90%;
+	background-color: #A60021;
+	display: flex;
+	width: 90%;
+	height: relative;
+	position: fixed;
+	top: 0;
+	transition: left .5s;
+}
+
+.menu-total:hover .menu-item {
+    left: 0;
+}
+
+.menu-itens {
+	background-color: #A60021;
+	color: #ffffff;
+    border: 1px solid #ffffff;
+    position: relative;
+    opacity: 1;
+    visibility: hidden;
+    transition: opacity .5s, visibility .5s;
+}
+
+.menu-item:hover .menu-itens {
+    opacity: 1;
+    visibility: visible;
+}
+
+.submenu-item {
+	visibility: hidden;
+    padding: .25rem;
+}
+
+.menu-itens:hover .submenu-item{
+    background-color: #ffffff;
+    color: #A60021;
+    visibility: visible;
+}
+
+
+@media (max-width: 360px) {
+
+	.section{
+		font-size: 1.75em;
+		grid-row-start: auto;
+		grid-column-end: auto;
+	}
+
+}
