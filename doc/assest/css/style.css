@@ -43,40 +43,6 @@ body {
     background-color: #ffffff;
 }
 
-.submenu-item {
-	font-family:'Helvetica', cursive;
-	font-size: 1.3rem;
-	color: #ffffff;
-	border: 1px solid #ffffff;
-    margin-left: .1rem;
-    padding: .5rem;
-    height: 1.4rem;
-}
-
-.submenu-item:hover {
-    color: #40000D;
-    background-color: #ffffff;
-}
-
-.submenu-item-projetos {
-	font-family:'Helvetica', cursive;
-	font-size: 1.3rem;
-	color: #ffffff;
-	border: 1px solid #ffffff;
-    margin-left: .1rem;
-    padding: .5rem;
-    height: 1.4rem;
-    display: flex;
-
-}
-
-.submenu-item-projetos:hover {
-    color: #40000D;
-    background-color: #ffffff;
-}
-
-
-
 .content {
 	font-family: Helvetica;
 	font-size: 1.3rem;
@@ -109,43 +75,64 @@ body {
 
 }
 
-
-
-.submenu-itens {
-    background-color: #A60021;
-    display: block;
-    height: 100%;
-    width: 90%;
-    position: fixed;
-    top: 0;
-    left: -90%;
-    transition: left .5s;
-    color: #ffffff;
+.menu-total {
+	font-family:'Helvetica', cursive;
+	font-size: 1.3rem;
+	color: #ffffff;
+	border: 1px solid #ffffff;
+    margin-left: .1rem;
+    padding: .5rem;
+    height: 1.4rem;
 }
 
-.submenu-item:hover  .submenu-itens {
+.menu-total:hover {
+    color: #40000D;
+    background-color: #ffffff;
+}
+
+.menu-item {
+    flex-grow: 1;
+    padding: .25rem;
+    position: relative;
+}
+
+.menu-item {
+	left: -90%;
+	background-color: #A60021;
+	display: flex;
+	width: 90%;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	transition: left .5s;
+}
+
+.menu-total:hover .menu-item {
     left: 0;
 }
 
-.container{
-  	width: 70%;
-	text-align: center;
-	max-width: 50%;
-	min-width: 30%;
-	border-style: solid;
-	border-width: 1.5px;
-	border-color: #A60021;
-	margin-left: 25%;
+.menu-itens {
+	background-color: #ffffff;
+    border: 1px solid #00FF00;
+    position: absolute;
+    left: 100px;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity .5s, visibility .5s;
 }
 
-
-.wall{
-	display: none;
+.menu-item:hover .menu-itens {
+    opacity: 1;
+    visibility: visible;
 }
 
- 
-.wall:target {
-  	display: block;
+.submenu-item {
+    padding: .25rem;
+}
+
+.submenu-item:hover {
+    background-color: #00FF00;
+    color: #000000;
 }
 
 

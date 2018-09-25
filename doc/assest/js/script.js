@@ -24,7 +24,8 @@ document.addEventListener('DOMContentLoaded', function() {
     Se não sabe o que é isto, volte ao ingrediente 3.
   */
 
-  let path = "/area/" + params["projeto"]
+/*  let path = "/area/" + params["projeto"]*/
+  let path = '/' + params['area'] + '/' + params['projeto']
   console.log(path)
   db.download(path, function(data) {
     /*
@@ -40,4 +41,3 @@ document.addEventListener('DOMContentLoaded', function() {
     })
   })
 })
-window.location = "#wall-1";

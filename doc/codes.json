@@ -1,6 +1,8 @@
 {
     "Projetos voltados ao usuário": {
+
         "Melhoria para carroças de catadores": {
+
             "descricao": "Com o proposito de melhorar o bem estar e as condições de trabalho dos catadores, os alunos foram divididos em grupos, com objetivo de desenvolver uma ideia acess\u00edvel de melhoria \u00e0 carro\u00e7a. Para definir as necessidades dos carroceiros, os grupos foram \u00e0s ruas entrevist\u00e1-los e coletar informa\u00e7\u00f5es sobre as carro\u00e7as. A avalia\u00e7\u00e3o final foi sobre um prot\u00f3tipo de carro\u00e7a construido pelos alunos no FabLab, cujo representava as ideias de cada grupo. Durante o per\u00edodo de f\u00e9rias, as ideias foram efetivadas e aplicadas em carro\u00e7as de catadores escolhidos entre todos aqueles que foram entrevistados pelos alunos. O projeto foi promovido com parceria do Insper com o movimento Pimp My Carro\u00e7a.",
             "goal": [
                 "Identificar e abordar problemas de design",
@@ -18,6 +20,7 @@
             "titulo": "Melhoria para carro\u00e7a de catadores"
         },
         "Projeto final de Co-Design de Aplicativos": {
+
             "descricao": "",
             "goal": [
                 "",
@@ -51,7 +54,7 @@
             "semestre": "",
             "titulo": ""
         },
-         "Modelo de negócios para startup nova": {
+        "Modelo de negócios para startup nova": {
             "descricao": "",
             "goal": [
                 "",
@@ -67,11 +70,10 @@
             "materia": "",
             "semestre": "",
             "titulo": ""
-         }
+        }
     },
-
     "Estudos de comportamentos do mundo físico": {
-         "Projeto Final de Descronstruindo a Matéria": {
+        "Projeto Final de Descronstruindo a Matéria": {
             "descricao": "",
             "goal": [
                 "",
@@ -87,8 +89,8 @@
             "materia": "",
             "semestre": "",
             "titulo": ""
-         },
-          "Projeto Final de Modelagem e Simulação": {
+        },
+        "Projeto Final de Modelagem e Simulação": {
             "descricao": "",
             "goal": [
                 "",
@@ -104,11 +106,10 @@
             "materia": "",
             "semestre": "",
             "titulo": ""
-         }
-
+        }
     },
     "Estudos sobre Matemática": {
-         "Projeto Final de Matemática da Variação": {
+        "Projeto Final de Matemática da Variação": {
             "descricao": "",
             "goal": [
                 "",
@@ -124,8 +125,8 @@
             "materia": "",
             "semestre": "",
             "titulo": ""
-         },
-          "Projeto Final de Matemática Multivariada": {
+        },
+        "Projeto Final de Matemática Multivariada": {
             "descricao": "",
             "goal": [
                 "",
@@ -141,11 +142,10 @@
             "materia": "",
             "semestre": "",
             "titulo": ""
-         }
-
+        }
     },
     "Projetos de Programação": {
-         "Projeto Final de Design de Software": {
+        "Projeto Final de Design de Software": {
             "descricao": "",
             "goal": [
                 "",
@@ -161,9 +161,8 @@
             "materia": "",
             "semestre": "",
             "titulo": ""
-         },
-
-         "Projeto Final de Ciência dos Dados": {
+        },
+        "Projeto Final de Ciência dos Dados": {
             "descricao": "",
             "goal": [
                 "",
@@ -179,10 +178,8 @@
             "materia": "",
             "semestre": "",
             "titulo": ""
-         }         
-
+        }
     },
-
     "Projetos Físicos e Eletrônicos": {
         "Projeto Final de Acionamentos Elétricos": {
             "descricao": "",
@@ -200,8 +197,8 @@
             "materia": "",
             "semestre": "",
             "titulo": ""
-         },
-         "Projeto Final de Modelagem e Controle": {
+        },
+        "Projeto Final de Modelagem e Controle": {
             "descricao": "",
             "goal": [
                 "",
@@ -217,8 +214,8 @@
             "materia": "",
             "semestre": "",
             "titulo": ""
-         },
-         "Estação Metereológica": {
+        },
+        "Estação Metereológica": {
             "descricao": "",
             "goal": [
                 "",
@@ -234,8 +231,8 @@
             "materia": "",
             "semestre": "",
             "titulo": ""
-         },
-         "Girafa do Job Rotation": {
+        },
+        "Girafa do Job Rotation": {
             "descricao": "",
             "goal": [
                 "",
@@ -251,8 +248,7 @@
             "materia": "",
             "semestre": "",
             "titulo": ""
-         },
-         
+        }
     },
     "Estudos sobre a sociedade": {
         "Cases de Grandes Desafios da Engenharia": {
@@ -271,6 +267,6 @@
             "materia": "",
             "semestre": "",
             "titulo": ""
-         },
+        }
     }
 }
