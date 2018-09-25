@@ -29,7 +29,7 @@
                 "Estruturar cenários a partir de conceitos de aplicativo",
                 "Seguir protocolos de teste com usuários",
                 "Avaliar resultados de testes",
-                "Articular decisões de design",
+                "Articular decisões de design"
             ],
             "image": "codes.jpg",
             "materia": "Co-Design de Aplicativos",
@@ -37,23 +37,25 @@
             "titulo": "Projeto Final de Co-Design de Aplicativos"
         },
         "Inovação incremental para empresa existente": {
-            "descricao": "Em breve...",
+            "descricao": "É a introdução de qualquer tipo de melhoria em um produto, processo ou organização da produção dentro de uma empresa, sem alteração na estrutura industrial.",
             "goal": [
-                "Em breve...",
+                "Detectar problemas dentro da empresa.",
+                "Seguir protocolos da empresa."
             ],
-            "image": "",
-            "materia": "Em breve...",
-            "semestre": "Em breve...",
+            "image": "empresa.jpg",
+            "materia": "Eletiva",
+            "semestre": "Livre escolha",
             "titulo": "Inovação incremental para empresa existente"
         },
         "Modelo de negócios para startup nova": {
-            "descricao": "Em breve...",
+            "descricao": "Desenvolvimento de novas ideias para empresas que buscam inovação no mercado atual.",
             "goal": [
-                "Em breve...",
+                "Aprender a modelar ideias em função empresarias",
+                "Não fugir da proposta da empresa"
             ],
-            "image": "",
-            "materia": "Em breve...",
-            "semestre": "Em breve...",
+            "image": "startup.jpg",
+            "materia": "Eletiva",
+            "semestre": "Livre escolha",
             "titulo": "Modelo de negócios para startup nova"
         }
     },
@@ -61,7 +63,7 @@
         "Projeto Final de Descronstruindo a Matéria": {
             "descricao": "Em breve...",
             "goal": [
-                "Em breve...",
+                "Em breve..."
             ],
             "image": "",
             "materia": "Desconstruindo a Matéria",
@@ -91,7 +93,7 @@
                 "interpretar e calcular o valor acumulado de uma variável dependente com a alteração do valor da variável independente ",
                 "utilizar os conceitos e ferramentas vistos no curso para criar modelos de situações da realidade, envolvendo principalmente equações diferenciais, com o objetivo de estabelecer previsões e tomar decisões ",
                 "utilizar ferramentas da Álgebra Linear para resolver modelos matemáticos originados da caracterização de sistemas dinâmicos ",
-                "aprender a aprender matemática, ou seja, deve desenvolver autonomia, em relação ao conhecimento matemático, para buscar fontes de estudo e selecionar métodos que tornem seu aprendizado mais eficiente ",
+                "aprender a aprender matemática, ou seja, deve desenvolver autonomia, em relação ao conhecimento matemático, para buscar fontes de estudo e selecionar métodos que tornem seu aprendizado mais eficiente "
             ],
             "image": "matvar.jpg",
             "materia": "Matemática da Variação",
@@ -101,7 +103,7 @@
         "Projeto Final de Matemática Multivariada": {
             "descricao": "Fazer um estudo e escrever um artigo sobre um fenômeno matemática",
             "goal": [
-                "Em breve...",
+                "Em breve..."
             ],
             "image": "matvar.jpg",
             "materia": "Matemática Multivariada",
@@ -128,7 +130,7 @@
                 "Elaborar análises exploratórias de dados (univariadas e multivariadas), utilizando ferramentas estatísticas e computacionais adequadas",
                 "Especificar as distribuições de probabilidades adequadas para as variáveis quantitativas discretas e contínuas",
                 "Conduzir testes inferenciais adequados que possam dar base à tomada de decisão",
-                "Analisar relações entre as variáveis, utilizando ferramentas estatísticas inferenciais adequadas",
+                "Analisar relações entre as variáveis, utilizando ferramentas estatísticas inferenciais adequadas"
             ],
             "image": "",
             "materia": "Ciência dos Dados",
@@ -140,7 +142,7 @@
         "Projeto Final de Acionamentos Elétricos": {
             "descricao": "Os alunos são separados em grupos para montar um circuito",
             "goal": [
-                "Montar um circuito",
+                "Montar um circuito"
             ],
             "image": "",
             "materia": "Acionamentos Elétricos",
@@ -150,7 +152,7 @@
         "Projeto Final de Modelagem e Controle": {
             "descricao": "Em breve...",
             "goal": [
-                "Em breve...",
+                "Em breve..."
             ],
             "image": "",
             "materia": "Modelagem e Controle",
@@ -165,7 +167,7 @@
                 " Projetar circuitos elétricos e eletrônicos e confeccionar placas de circuito impresso dedicadas",
                 " Aquisitar dados de fenômenos físicos com o emprego de sensores/transdutores eletroeletrônicos e microcontrolador",
                 " Aplicar os conceitos de incerteza, exatidão, precisão, resolução, repetibilidade e sensibilidade nas atividades metrológicas",
-                " Analisar e apresentar dados utilizando ferramentas estatísticas básicas",
+                " Analisar e apresentar dados utilizando ferramentas estatísticas básicas"
             ],
             "image": "instrumed1.jpg",
             "materia": "Instrumentação e Medição",
