@@ -93,7 +93,13 @@ body {
 .menu-item {
     flex-grow: 1;
     padding: .25rem;
-    position: relative;
+    position: fixed;
+    color: #A60021
+}
+
+.menu-itens:hover {
+    color: #40000D;
+    background-color: #ffffff;
 }
 
 .menu-item {
@@ -101,7 +107,7 @@ body {
 	background-color: #A60021;
 	display: flex;
 	width: 90%;
-	height: 100%;
+	height: relative;
 	position: fixed;
 	top: 0;
 	transition: left .5s;
@@ -112,11 +118,11 @@ body {
 }
 
 .menu-itens {
-	background-color: #ffffff;
-    border: 1px solid #00FF00;
-    position: absolute;
-    left: 100px;
-    opacity: 0;
+	background-color: #A60021;
+	color: #ffffff;
+    border: 1px solid #ffffff;
+    position: relative;
+    opacity: 1;
     visibility: hidden;
     transition: opacity .5s, visibility .5s;
 }
@@ -127,12 +133,14 @@ body {
 }
 
 .submenu-item {
+	visibility: hidden;
     padding: .25rem;
 }
 
-.submenu-item:hover {
-    background-color: #00FF00;
-    color: #000000;
+.menu-itens:hover .submenu-item{
+    background-color: #ffffff;
+    color: #A60021;
+    visibility: visible;
 }
 
 
