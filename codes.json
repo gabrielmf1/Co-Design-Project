@@ -65,7 +65,7 @@
             "goal": [
                 "Em breve..."
             ],
-            "image": "",
+            "image": "fisica.jpg",
             "materia": "Desconstruindo a Matéria",
             "semestre": "3° Semestre de Engenharia",
             "titulo": "Estudos de comportamentos do mundo físico"
@@ -132,7 +132,7 @@
                 "Conduzir testes inferenciais adequados que possam dar base à tomada de decisão",
                 "Analisar relações entre as variáveis, utilizando ferramentas estatísticas inferenciais adequadas"
             ],
-            "image": "",
+            "image": "CD.jpg",
             "materia": "Ciência dos Dados",
             "semestre": "2° Semestre de Engenharia",
             "titulo": "Projeto Final de Ciência dos Dados"
@@ -144,7 +144,7 @@
             "goal": [
                 "Montar um circuito"
             ],
-            "image": "",
+            "image": "FE.jpg",
             "materia": "Acionamentos Elétricos",
             "semestre": "2° Semestre de Engenharia",
             "titulo": "Projeto Final de Acionamentos Elétricos"
@@ -154,7 +154,7 @@
             "goal": [
                 "Em breve..."
             ],
-            "image": "",
+            "image": "MC.jpg",
             "materia": "Modelagem e Controle",
             "semestre": "4° Semestre de Engenharia",
             "titulo": "Projeto Final de Modelagem e Controle"
@@ -201,7 +201,7 @@
                 "Em grupos de até seis engenheiros e engenheiras, os alunos deverão ser capazes de: Apresentar e relacionar entre si os conceitos de caixa preta, ciência em construção e ciência pronta. Interpretar a descoberta do DNA e a construção do computador Eclipse MV/8000 a partir dos conceitos de caixa preta, ciência em construção e ciência pronta e das quatro máximas de Juno",
                 "Distinguir entre determinismo tecnológico e construção social da tecnologia. Apresentar os conceitos relevantes da Social Construction of Technology. Explicar a analogia entre Golem e ciência e tecnologia"
             ],
-            "image": "",
+            "image": "GDE.jpg",
             "materia": "Grandes Desafios da Engenharia",
             "semestre": "1° Semestre de Engenharia",
             "titulo": "Cases de Grandes Desafios da Engenharia"
