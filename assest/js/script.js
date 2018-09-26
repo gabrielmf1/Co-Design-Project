@@ -1,9 +1,18 @@
 /*
   Se não sabe o que é isto, volte para os vídeos de JavaScript.
 */
-
-
 document.addEventListener('DOMContentLoaded', function() {
+    /*let menuitem = document.querySelector('button.menu-item')
+
+    let keys
+
+    keys = document.querySelectorAll('.menu-total')
+
+    for(let key of keys) {
+      key.addEventListener('click', function() {
+        concDigit(menuitem, key.innerHTML)
+      })
+    }
   /*
     Se não sabe o que é isto, volte ao ingrediente 2.
   */
