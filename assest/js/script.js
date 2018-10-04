@@ -1,7 +1,20 @@
 /*
   Se não sabe o que é isto, volte para os vídeos de JavaScript.
 */
+
+// Open the full screen search box 
+
+
 document.addEventListener('DOMContentLoaded', function() {
+
+  function openSearch() {
+  document.getElementById("myOverlay").style.display = "block";
+  }
+
+// Close the full screen search box 
+  function closeSearch() {
+  document.getElementById("myOverlay").style.display = "none";
+  }
     /*let menuitem = document.querySelector('button.menu-item')
 
     let keys

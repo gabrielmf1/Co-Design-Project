@@ -1,5 +1,6 @@
 body {
-  background: content-box radial-gradient(white, red);}
+  background: content-box radial-gradient(white, red);
+}
 
 .title {
 	font-family: 'Cabin', sans-serif;
@@ -140,15 +141,17 @@ body {
 }
 
 .submenu-item {
-	visibility: visible;
+	visibility: hidden;
   padding: .25rem;
   font-size: 1.4rem;
 }
 
 .menu-itens:hover .submenu-item{
+  background-color: #ffffff;
   color: #A60021;
   visibility: visible;
 }
+
 
 
 .corlink {
